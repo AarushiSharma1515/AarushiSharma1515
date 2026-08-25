@@ -7,7 +7,7 @@
 ### 💻 Tech Stack
 * **Languages:** Python, C++, R
 * **Deep Learning & Vision:** PyTorch, TensorFlow, OpenCV, YOLOv8, U-Net, ONNX
-* **Machine Learning & Data:** Scikit-Learn, LightGBM, Pandas, NumPy, Matplotlib
+* **Machine Learning & Data:** SQL, Scikit-Learn, LightGBM, Pandas, NumPy, Matplotlib
 * **Deployment & Tools:** Raspberry Pi (Edge AI), Linux, Git
 
 ### 🚀 Key Projects
