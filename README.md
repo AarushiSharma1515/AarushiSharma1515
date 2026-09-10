@@ -5,10 +5,12 @@
 🌱 **Currently learning:** The mathematics behind Deep Learning (CNNs).
 
 ### 💻 Tech Stack
-* **Languages:** Python, C++, R, SQL
-* **Deep Learning & Vision:** PyTorch, TensorFlow, OpenCV, YOLOv8, U-Net, ONNX
-* **Machine Learning & Data:** SQL, Scikit-Learn, LightGBM, Pandas, NumPy, Matplotlib
-* **Deployment & Tools:** Raspberry Pi (Edge AI), Linux, Git
+* **Languages: Python, C++, R, SQL
+* **Deep Learning & Vision: PyTorch, TensorFlow, OpenCV, YOLOv8, U-Net, ONNX
+* **Machine Learning & Data: Scikit-Learn, LightGBM, Pandas, NumPy, Matplotlib
+* **Backend & APIs (NEW): FastAPI, Uvicorn, Pydantic, SQLAlchemy
+* **Databases (NEW): PostgreSQL (Neon), SQLite
+* **MLOps, Deployment & Tools (UPDATED): Docker, GitHub Actions (CI/CD), pytest, Linux, Git, Raspberry Pi (Edge AI)
 
 ### 🚀 Key Projects
 
