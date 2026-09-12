@@ -5,12 +5,12 @@
 🌱 **Currently learning:** The mathematics behind Deep Learning (CNNs).
 
 ### 💻 Tech Stack
-* Languages---Python, C++, R, SQL
-* Deep Learning & Vision---PyTorch, TensorFlow, OpenCV, YOLOv8, U-Net, ONNX
-* Machine Learning & Data---Scikit-Learn, LightGBM, Pandas, NumPy, Matplotlib
-* Backend & APIs---FastAPI, Uvicorn, Pydantic, SQLAlchemy
-* Databases---PostgreSQL (Neon), SQLite
-* MLOps, Deployment & Tools---Docker, GitHub Actions (CI/CD), pytest, Linux, Git, Raspberry Pi (Edge AI)
+* **Languages:** Python, C++, R, SQL
+* **Deep Learning & Vision:** PyTorch, TensorFlow, OpenCV, YOLOv8, U-Net, ONNX
+* **Machine Learning & Data:** Scikit-Learn, LightGBM, Pandas, NumPy, Matplotlib
+* **Backend & APIs:** FastAPI, Uvicorn, Pydantic, SQLAlchemy
+* **Databases:** PostgreSQL (Neon), SQLite
+* **MLOps, Deployment & Tools:** Docker, GitHub Actions (CI/CD), pytest, Linux, Git, Raspberry Pi (Edge AI)
 
 ### 🚀 Key Projects
 
@@ -24,4 +24,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarushi-sharma-ml/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aarushi.s150804@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=read-it-later&logoColor=white)](https://drive.google.com/file/d/1TA8ByDYDaEtssi50CbHQ0bNvF9OcsQLQ/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=read-it-later&logoColor=white)](https://drive.google.com/file/d/105aUvc1ZlJl4AQByD4fBs6T3AhywMx-X/view?usp=sharing)
